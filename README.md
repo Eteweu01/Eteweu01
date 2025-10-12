@@ -67,7 +67,7 @@ Aqui vão alguns dos meus repositórios principais:
 ## 📫 Vamos nos conectar
 
 - LinkedIn: [edivaldo-francisco](https://www.linkedin.com/in/edivaldo-francisco-413780383)  
-- Instagram: (adicione aqui se quiser)  
+- Instagram: ([eteweu](https://www.instagram.com/eteweu/))  
 
 ---
 
