@@ -1,11 +1,22 @@
-# 👋 Olá! Eu sou Edivaldo Junior (aka Eteweu01)
+<!-- 💻 README by Eteweu01 -->
+<h1 align="center">👋 Olá, eu sou <strong>Edivaldo Junior</strong> (aka <i>Eteweu01</i>)</h1>
 
-Sou **Full Stack Developer** apaixonado por aprender e criar.  
-Moro em Recife, Pernambuco 🇧🇷 e adoro experimentar novas tecnologias e resolver problemas do mundo real por meio de código.
+<p align="center">
+  💻 <b>Full Stack Developer</b> apaixonado por aprender, criar e resolver problemas do mundo real por meio de código.  
+  🌍 Moro em <b>Recife, Pernambuco 🇧🇷</b> e adoro explorar novas tecnologias!
+</p>
 
 ---
 
-### 🧠 Habilidades & Tecnologias
+### 🚀 Sobre mim
+- 🌱 Atualmente explorando o ecossistema **Java | Python | React**  
+- 🧩 Apaixonado por **arquitetura de software**, **banco de dados** e **automação com Docker**  
+- 🎯 Objetivo: criar soluções que causem impacto positivo  
+- 🧠 Sempre aprendendo algo novo (tecnologia, design, IA...)
+
+---
+
+## 🧠 Habilidades & Tecnologias
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -17,10 +28,9 @@ Moro em Recife, Pernambuco 🇧🇷 e adoro experimentar novas tecnologias e res
 
 </div>
 
-
 ---
 
-### 🧰 Ferramentas & Ambiente de Desenvolvimento
+## 🧰 Ferramentas & Ambiente de Desenvolvimento
 <div align="center">
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -39,36 +49,42 @@ Moro em Recife, Pernambuco 🇧🇷 e adoro experimentar novas tecnologias e res
 
 <div align="center">
 
-![Eteweu01’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eteweu01&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Eteweu01&layout=compact&theme=tokyonight&hide_border=true)
+![Eteweu01’s GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Eteweu01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
+![Top Linguagens](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eteweu01&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 📂 Projetos em Destaque
+## 🌟 Projetos em Destaque
 
-Aqui vão alguns dos meus repositórios principais:
-
-| Projeto | Linguagem / stack | Descrição |
-|---|---|---|
-| **DevsLinks** | HTML / CSS / JS | Links úteis e recursos para devs |
-| **desafio-prompt-engineering** | Python | Experimentando técnicas de prompt com ChatGPT |
-| **desafio-docker-compose** | HTML / Docker | Projeto com docker-compose para aprendizado |
-| **EstiloZPythonAPI** | HTML / Python | API com estilo e propósito |
-| **ProlEduca-API-master** | Java | Back-end para solução educacional |
-| **NeuroProTalent-master** | Java | Projeto envolvendo lógica / neural / talento |
-
-*(Você pode substituir por uma seleção que represente melhor seus projetos preferidos)*
+| 🧩 Projeto | 🛠️ Linguagem / Stack | 📖 Descrição |
+|:--|:--|:--|
+| **DevsLinks** | HTML / CSS / JS | Coleção de links e recursos úteis para devs |
+| **Desafio Prompt Engineering** | Python | Testes e experimentos com engenharia de prompts |
+| **Desafio Docker Compose** | HTML / Docker | Ambientes configuráveis com Docker Compose |
+| **EstiloZ Python API** | Python / HTML | API criativa e estilosa |
+| **ProlEduca API** | Java | Back-end para solução educacional |
+| **NeuroProTalent** | Java | Projeto com lógica neural e automação de talentos |
 
 ---
 
-## 📫 Vamos nos conectar
+## 🌐 Vamos nos conectar!
 
-- LinkedIn: [edivaldo-francisco](https://www.linkedin.com/in/edivaldo-francisco-413780383)  
-- Instagram: ([eteweu](https://www.instagram.com/eteweu/))  
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edivaldo-francisco-413780383)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eteweu/)  
+[![Email](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edivaldof214@gmail.com)
+
+</div>
 
 ---
 
-⭐ *"Code is poetry, and I strive to escrever versos melhores a cada commit."*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Eteweu01&label=👀+Visualizações+no+perfil&color=blueviolet&style=flat-square" alt="Visualizações no perfil" />
+</p>
 
+---
+
+<h3 align="center">⭐ "Code is poetry — and I strive to write better verses with every commit." ⭐</h3>
