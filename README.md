@@ -1,5 +1,5 @@
 <!-- 💻 README by Eteweu01 -->
-<h1 align="center">👋 Olá, eu sou <strong>Edivaldo Junior</strong> (aka <i>Eteweu01</i>)</h1>
+<h1 align="center">👋 Olá, eu sou <strong>Edivaldo Junior</strong> (<i>Eteweu01</i>)</h1>
 
 <p align="center">
   💻 <b>Full Stack Developer</b> apaixonado por aprender, criar e resolver problemas do mundo real por meio de código.  
