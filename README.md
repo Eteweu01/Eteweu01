@@ -1,4 +1,4 @@
-# 👋 Hello there!
+# 🧐 Hello 🧐
 
 I'm **Edivaldo Francisco do Nascimento Junior**, a passionate **Full Stack Developer** and technology enthusiast.  
 Currently focused on building efficient, scalable, and beautiful applications using modern frameworks and tools.  
