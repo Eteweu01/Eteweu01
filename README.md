@@ -89,8 +89,12 @@
 
 <h3 align="center">⭐ "Code is poetry — and I strive to write better verses with every commit." ⭐</h3>
 
+---
+
 <p align="center">
-  🐍 <b>Watch my contribution snake eat my commits!</b>
+  🐍 <b>Veja a cobrinha comendo meus commits!</b>
 </p>
 
-![snake gif](https://github.com/Eteweu01/Eteweu01/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://github.com/Eteweu01/Eteweu01/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
