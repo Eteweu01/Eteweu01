@@ -1,85 +1,55 @@
-# 👋 Olá! Eu sou Edivaldo Junior (aka Eteweu01)
+## Edivaldo Junior
 
-Sou **Full Stack Developer** apaixonado por aprender e criar.  
-Moro em **Recife, Pernambuco 🇧🇷** e adoro experimentar novas tecnologias e resolver problemas do mundo real por meio de código.
+**Analista de TI** em uma indústria de alimentos em Recife. Meu trabalho é manter a operação de pé — e, quando a planilha não dá mais conta, construir o sistema que faltava.
 
----
+É daí que nascem os projetos aqui: problemas reais de operação que viraram código em produção, usados todo dia por gente que não é da área de TI.
 
-## 🚀 Sobre mim
-
-- 💻 Desenvolvedor focado em **Java, Python, React e Docker**
-- 📚 Sempre buscando aprender algo novo (principalmente sobre IA e automações)
-- 🌍 Gosto de construir soluções que realmente **impactam pessoas**
-- 🎯 “Cada commit é um passo em direção ao meu melhor código.”
+🎓 Cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Tiradentes (Unit-PE)
 
 ---
 
-## 🧠 Habilidades & Tecnologias
-<div align="center">
+### Em produção
 
-![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+**[inventario-ti](https://github.com/Eteweu01/inventario-ti)** — Gestão patrimonial de equipamentos de TI
 
-</div>
+O controle de ativos vivia numa planilha que ninguém atualizava. Hoje cada notebook, celular, monitor e impressora tem uma etiqueta com QR Code: aponta a câmera e a ficha completa do equipamento abre na hora — modelo, setor, status, responsável e o termo de responsabilidade assinado.
+
+Inclui geração de etiquetas em lote, vínculo N:N entre funcionário e equipamento com histórico de posse, dashboard por status e relatórios para impressão.
+
+`PHP 8` `MySQL` `JavaScript puro` — sem framework e sem build, porque precisa rodar num servidor interno modesto e continuar funcionando daqui a cinco anos.
 
 ---
 
-## 🧰 Ferramentas & Ambiente de Desenvolvimento
-<div align="center">
+### Outros projetos
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=gradle&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-4EAA25.svg?style=for-the-badge&logo=linux&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+| Projeto | Stack | O que é |
+|---|---|---|
+| **[EstiloZPythonAPI](https://github.com/Eteweu01/EstiloZPythonAPI)** | Python · Flask · JS | API REST e dashboard para e-commerce de moda |
+| **[NeuroProTalent](https://github.com/Eteweu01/NeuroProTalent-master)** | Java 17 · Spring Boot | API de gestão de funcionários, certificações e habilidades |
+| **[ProlEduca](https://github.com/Eteweu01/ProlEduca-API-master)** | Java | Módulo administrativo de gerenciamento de escolas |
+| **[desafio-docker-compose](https://github.com/Eteweu01/desafio-docker-compose)** | Docker · FastAPI · PostgreSQL | Ambiente multi-container com redes e volumes |
 
 ---
 
-## 📊 Estatísticas & Linguagens
-<div align="center">
+### Tecnologias
 
-![Eteweu01’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eteweu01&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Eteweu01&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📂 Projetos em Destaque
-
-| 🧩 Projeto | 💻 Linguagem / Stack | 📝 Descrição |
-|-------------|----------------------|---------------|
-| **DevsLinks** | HTML / CSS / JS | Links úteis e recursos para devs |
-| **desafio-prompt-engineering** | Python | Experimentando técnicas de prompt com ChatGPT |
-| **desafio-docker-compose** | HTML / Docker | Projeto com docker-compose para aprendizado |
-| **EstiloZPythonAPI** | HTML / Python | API com estilo e propósito |
-| **ProlEduca-API-master** | Java | Back-end para solução educacional |
-| **NeuroProTalent-master** | Java | Projeto envolvendo lógica / neural / talento |
+**Back-end** &nbsp;PHP · Java (Spring Boot) · Python (Flask, FastAPI)
+**Front-end** &nbsp;JavaScript · React · HTML · CSS
+**Dados** &nbsp;MySQL · PostgreSQL
+**Infra** &nbsp;Docker · Linux · Apache · Windows Server · WSL
+**Ferramentas** &nbsp;Git · VS Code · IntelliJ IDEA
 
 ---
 
-## 🌐 Conecte-se comigo
+### Como eu trabalho
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edivaldo-francisco-413780383)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eteweu/)
-
-</div>
+- **Resolvo o problema antes de escolher a ferramenta.** A stack certa é a que a equipe consegue manter, não a mais nova.
+- **Dado de pessoa é responsabilidade.** Credencial fora do repositório, LGPD levada a sério, nada de dado real versionado.
+- **Software interno também merece cuidado.** Quem usa o sistema todo dia merece uma interface que não atrapalhe.
 
 ---
 
-⭐ *“Code is poetry — e eu busco escrever versos melhores a cada commit.”*
+### Contato
 
-
-# 🐍 Veja a cobrinha comendo meus commits!
-
-![snake animation](https://raw.githubusercontent.com/Eteweu01/Eteweu01/output/snake.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edivaldo-francisco-413780383)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:edivaldof214@gmail.com)
